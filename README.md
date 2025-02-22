@@ -25,7 +25,7 @@ Clone the Repository
 Clone the repository to your local machine using Git:
 
 sh
-git clone https://github.com/YourUsername/RestaurantManagementSystem.git
+git clone https://github.com/sindhu717/RestaurantMS/tree/main
 cd RestaurantManagementSystem
 Open the Project in Your IDE
 
